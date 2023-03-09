@@ -32,4 +32,4 @@ Hands-on experience in cloud computing, proficient in developing solutions on Az
 
 </ul>
 
-<details>
+</details>
