@@ -11,7 +11,7 @@ Extensive experience developing applications with the .NET framework, including 
 </li>
 
 <li>🧑‍💻 <b>Programming proficiency:</b><br>
-High level of proficiency in multiple programming languages, expertise in JavaScript and C#. Experience working with a diverse range of libraries and frameworks, including Express.js and React Native.
+High level of proficiency in multiple programming languages, expertise in JavaScript and C#. Experience working with a diverse range of libraries and frameworks.
 </li>
 
 <li>🌐 <b>API development:</b><br>
