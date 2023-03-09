@@ -1,4 +1,4 @@
-### Hey, I'm Jens <a href="https://github.com/codenameClass"><img src="./dist/images/github-logo.gif" width="30"></a> !
+### Hey, I'm Jens <a href="https://github.com/codenameClass"></a> !
 
 My area of expertise as a **Full Stack Engineer** specializes in .NET development. As a dedicated professional, I am passionate about delivering high-quality solutions to my clients.
 
