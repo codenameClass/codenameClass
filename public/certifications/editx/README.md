@@ -35,7 +35,6 @@ Editx is an online platform for IT education and networking, connecting IT stude
 ---
 
 <br>
-<br>
 
 ### Java Challenge 2018 by Federal Public Service Finance
 
