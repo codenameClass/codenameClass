@@ -4,6 +4,9 @@ Editx is an online platform for IT education and networking, connecting IT stude
 
 ## Selected Finals
 
+- [Front-end Challenge 2022 by SD Worx](#front-end-challenge-2022-by-sd-worx)
+- [Java Challenge 2018 by Federal Public Service Finance](#java-challenge-2018-by-federal-public-service-finance)
+
 ### Front-end Challenge 2022 by SD Worx
 
 <article>
