@@ -15,16 +15,18 @@
 ## Cloud
 
 * AZ-900 Path
-    * CoC Microsoft Azure Fundamentals Introduction to the AZ-900 Exam [April 28, 2022]
-    * CoC Microsoft Azure Cloud Concepts [April 28, 2022]
-    * CoC Microsoft Azure Services and Concepts by Neil Morrissey [May 23, 2022]
+  * CoC Microsoft Azure Fundamentals Introduction to the AZ-900 Exam [April 28, 2022]
+  * CoC Microsoft Azure Cloud Concepts [April 28, 2022]
+  * CoC Microsoft Azure Services and Concepts by Neil Morrissey [May 23, 2022]
+* AZ-204 Path
+  * CoC Microsoft Azure Developer Introduction to the AZ-204 Exam by Matthew Kruczek [April 4, 2023]
 
 ## Containers
 
 * CoC Docker and Kubernetes: The Big Picture [April 19, 2022]
 * CoC Getting Started with Docker [April 19, 2022]
 
-## Virtualization 
+## Virtualization
 
 * CoC Virtualization: The Big Picture [March 1, 2022]
 * CoC Fundamentals of Server Virtualization [March 2, 2022]
