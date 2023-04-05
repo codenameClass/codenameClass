@@ -20,6 +20,10 @@
   * CoC Microsoft Azure Services and Concepts by Neil Morrissey [May 23, 2022]
 * AZ-204 Path
   * CoC Microsoft Azure Developer Introduction to the AZ-204 Exam by Matthew Kruczek [April 4, 2023]
+  * CoC Microsoft Azure Developer: Implement IaaS Solutions by Anthony Nocentino [April 5, 2023]
+  * CoC Microsoft Azure Developer: Create Azure App Service Web Apps by Mike Pfeiffer [April 5, 2023]
+  * CoC Microsoft Azure Developer: Implement Azure Functions by Mark Heath [April 5, 2023]
+
 
 ## Containers
 
