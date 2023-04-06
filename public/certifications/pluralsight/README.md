@@ -23,6 +23,7 @@
   * CoC Microsoft Azure Developer: Implement IaaS Solutions by Anthony Nocentino [April 5, 2023]
   * CoC Microsoft Azure Developer: Create Azure App Service Web Apps by Mike Pfeiffer [April 5, 2023]
   * CoC Microsoft Azure Developer: Implement Azure Functions by Mark Heath [April 5, 2023]
+  * CoC Exam Alert: Develop Azure Compute Solutions by David Tucker [April 6, 2023]
 
 
 ## Containers
