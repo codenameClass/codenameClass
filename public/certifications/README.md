@@ -4,7 +4,8 @@
 
 ### Azure
 
-* AZ-900 Azure Fundamentals :hourglass_flowing_sand:
+* AZ-900 Azure Fundamentals
+* AZ-204 Azure Developer :hourglass_flowing_sand:
 
 ### VMWare
 
