@@ -27,6 +27,7 @@
   * CoC Microsoft Azure Developer: Develop Solutions with Cosmos DB Storage by David Tucker [April 7, 2023]
   * CoC Microsoft Azure Developer: Develop Solutions with Blob Storage by Thomas Claudius Huber [April 11, 2023]
   * CoC Exam Alert: Develop for Azure Storage by David Tucker [April 11, 2023]
+  * CoC Microsoft Azure Developer: Implement User Authentication and Authorization by Sahil Malik [April 21, 2023]
 
 
 ## Containers
