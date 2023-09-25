@@ -4,8 +4,20 @@ Editx is an online platform for IT education and networking, connecting IT stude
 
 ## Selected Finals
 
+- [Full Stack Challenge BeLux 2023 by delaware BeLux](#full-stack-challenge-belux-2023-by-delaware-belux)
 - [Front-end Challenge 2022 by SD Worx](#front-end-challenge-2022-by-sd-worx)
 - [Java Challenge 2018 by Federal Public Service Finance](#java-challenge-2018-by-federal-public-service-finance)
+
+
+
+### Full Stack Challenge BeLux 2023 by delaware BeLux
+
+<article>
+<p>I was honored to be selected for the Full Stack Challenge BeLux 2023 by delaware BeLux, but unfortunately, I was unable to attend due to unforeseen circumstances. Although I couldn't participate in the challenge, I'm grateful for the opportunity and look forward to future opportunities to showcase my skills and contribute to the tech community.</p>
+</article>
+
+
+---
 
 ### Front-end Challenge 2022 by SD Worx
 
