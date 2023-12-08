@@ -4,11 +4,32 @@ Editx is an online platform for IT education and networking, connecting IT stude
 
 ## Selected Finals
 
+- [.Net Challenge Belgium 2023 by Delen Private Bank](#net-challenge-belgium-2023-by-delen-private-bank)
 - [Full Stack Challenge BeLux 2023 by delaware BeLux](#full-stack-challenge-belux-2023-by-delaware-belux)
 - [Front-end Challenge 2022 by SD Worx](#front-end-challenge-2022-by-sd-worx)
 - [Java Challenge 2018 by Federal Public Service Finance](#java-challenge-2018-by-federal-public-service-finance)
 
 
+### .Net Challenge Belgium 2023 by Delen Private Bank
+
+<article>
+
+<figure>
+  <img src="../../../dist/images/1702033529264.jpeg" alt=".Net Challenge Belgium Finals 2023 - Group Picture" width="500" />
+  <figcaption>Surrounded by an atmosphere of innovation and creativity, we came together for a heartfelt group photo before the presentations.</figcaption>
+</figure>
+
+<figure>
+  <img src="../../../dist/images/1702033529827.jpeg" alt=".Net Challenge Belgium Finals 2023 - Coding Room" width="500" />
+  <figcaption>The coding competition unfolded in the elegant dining hall of Delen Private Bank, providing participants with a comfortable and inspiring environment to showcase their skills.</figcaption>
+</figure>
+
+<p>Participating in this challenge in the professionals category was an invaluable opportunity to test and enhance my skills while connecting with other exceptionally talented developers and data engineers. Being a finalist fills me with pride, and I am deeply grateful for the enriching experience.</p>
+
+</article>
+
+
+---
 
 ### Full Stack Challenge BeLux 2023 by delaware BeLux
 
